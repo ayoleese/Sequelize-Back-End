@@ -19,3 +19,8 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
+![Screenshot of Postman](<Screenshot 2024-01-28 at 10.17.06 PM.png>)
+
+Git Hub: https://github.com/ayoleese/Sequelize-Back-End
+
+Walk-through Video: https://drive.google.com/file/d/1VEd3aL7EAW0bhRCaRV-Zo-rrwHgL-cmr/view
